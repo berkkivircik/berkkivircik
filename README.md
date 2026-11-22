@@ -25,7 +25,7 @@ me = {
 <table>
   <tr>
     <td width="36%" valign="top"><b>Cybersecurity Professional</b><br /><sub>Turkey</sub></td>
-    <td valign="top">Security operations across incident response, identity and access management (Microsoft Entra ID, Google Workspace) and SIEM/XDR detection and triage. Turns what I learn into playbooks and frameworks for practitioners.</td>
+    <td valign="top">Security operations across incident response, identity and access management and SIEM/XDR detection and triage. Turns what I learn into playbooks and frameworks for practitioners.</td>
   </tr>
 </table>
 
