@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/berkkivircik"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Berk%20Kivircik&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Cybersecurity%20Professional%20%C2%B7%20TR&descSize=24&descAlignY=64" width="100%" alt="Berk Kivircik, Cybersecurity Professional" /></a>
+  <a href="https://github.com/berkkivircik"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Berk%20Kıvırcık&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Cybersecurity%20Professional%20%C2%B7%20TR&descSize=24&descAlignY=64" width="100%" alt="Berk Kıvırcık, Cybersecurity Professional" /></a>
 
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+incident+response+and+triage.;%3E+identity+and+access+management.;%3E+SIEM%2FXDR+detection+mapped+to+MITRE+ATT%26CK.;%3E+security+playbooks+people+actually+use." width="100%" alt="Incident response, identity and access management, SIEM/XDR detection, security playbooks" />
 </p>
