@@ -15,7 +15,7 @@ me = {
     "does":       "security operations: incident response, identity and access, detection",
     "based":      "Istanbul, Turkey",
     "frameworks": ["MITRE ATT&CK", "NIST CSF"],
-    "writes":     "security playbooks, checklists and frameworks, shared on LinkedIn",
+    "writes":     "security playbooks, checklists and frameworks",
     "builds":     "small tools and apps on the side",
     "speaks":     ["Turkish", "English"],
 }
